@@ -22,7 +22,7 @@ RT_C_0402, RT_C_0603, ..., RT_D_TVS, ..., RT_R_0402, ... sorted alphabetically.
 
 ## Install (once)
 1. Close KiCad.
-2. Preferences > Configure Paths: add `RT_LIB` = `C:/Users/ryant/Documents/Kicad/RT_Lib`
+2. Preferences > Configure Paths: add `RT_LIB` = `C:/Users/{username}/Documents/Kicad/RT_Lib`
    (or do step 3 first, then add the path variable when KiCad opens).
 3. Open `%APPDATA%\kicad\10.0\sym-lib-table` in a text editor. Paste the lines from
    `sym-lib-table_RT_Lib.txt` right before the final `)`. Delete any old RT_Resistors /
