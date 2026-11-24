@@ -1,0 +1,1 @@
+  (lib (name "RT_ICs")(type "KiCad")(uri "${RT_LIB}/ics/RT_ICs.pretty")(options "")(descr "RT_Lib IC footprints from LCSC"))
